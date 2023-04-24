@@ -48,8 +48,8 @@ h1 {
 		}
 
 .yellowbar0 {
-  position: relative;
-  top: 11.7%;
+  position: absolute;
+  top: 60.7%;
   left: -1%;
 }
 ::-webkit-scrollbar {
