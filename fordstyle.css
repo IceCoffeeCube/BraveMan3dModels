@@ -20,6 +20,7 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 61%;
+   overflow-x: hidden;
 }
 textarea {
   width: 60%;
