@@ -104,4 +104,69 @@ h1 {
   background:  #e3b525;
  
 }
+.FDT {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 600px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDM65 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 1300px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDMS {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 2000px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDRAPTOR {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 2700px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDGT2006 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 3400px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDA {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 4100px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDF100 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 4800px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FD33 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 5500px;
+			left: 50%;
+			transform: translateX(-50%);
+		}		
+
 
