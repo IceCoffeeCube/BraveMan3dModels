@@ -16,6 +16,10 @@ body{
     white 100%
 	
   );
+  background-image: url('ford-gt-tungsten-2006-ym.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 61%;
 }
 textarea {
   width: 60%;
@@ -168,5 +172,6 @@ h1 {
 			left: 50%;
 			transform: translateX(-50%);
 		}		
+
 
 
