@@ -6,13 +6,13 @@
 body{
   width: 1915px;
   width: 100%;
-  height: 500vh;
+  height: 1000vh;
   
   background: linear-gradient(
     to bottom,
     #181818	 0%,
-    #181818	 12%,
-    white 12%,
+    #181818	 6%,
+    white 6%,
     white 100%
 	
   );
@@ -49,7 +49,7 @@ h1 {
 
 .yellowbar0 {
   position: relative;
-  top: 11.7%;
+  top: 5.85%;
   left: -0.25%;
 }
 .fordlogo {
