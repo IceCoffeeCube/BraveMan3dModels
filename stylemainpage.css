@@ -10,8 +10,10 @@ body
  background-size: cover;
  background-attachment: fixed;
  background-position: center;
+ overflow-y: hidden;
 
 }
+
 section{
 display: flex;
 justify-content: center;
@@ -30,8 +32,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-width: 300px;
-height: 300px;
+width: 500px;
+height: 500px;
 background: url(cars.png);
 background-size: cover;
 background-repeat: repeat-x;
@@ -66,8 +68,8 @@ animation: animateCar 120000s linear infinite;
 	transform-origin: center;
 	transform-style: preserve-3d;
 	padding: 5px 11px;
-	transform: rotateY(calc(var(--i) * calc(360deg/31)))
-	translateZ(200px);
+	transform: rotateY(calc(var(--i) * calc(360deg/35)))
+	translateZ(300px);
 	border-top: 4px solid #35146f;
 	border-bottom: 4px solid #35146f;
 }
@@ -80,7 +82,35 @@ animation: animateCar 120000s linear infinite;
 	height: 100%;
 	background: #fff;
 	transform: translateZ(-5px);
+	
 }
+nav {
+  background-color: #f000;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+   
+  
+}
+
+nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: comfortaa;
+  
+}
+
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+  font-size: 19px;
+  
+}
+
+
 @keyframes animateText{
 	0%
 	{
