@@ -98,8 +98,8 @@ h1 {
 }
 
 .alimentare {
-  border: 1px solid #f000;
-  box-shadow: 3px 3px 6px #888;
+  border: 1px solid #181818;
+  box-shadow: 3px 3px 6px #181818;
   background-color: white;
   position: absolute;
   top: 2100px;
@@ -107,3 +107,14 @@ h1 {
   width: 68vw;
   height: 72vh;
 }
+.electric {
+  border: 1px solid #f000;
+  box-shadow: 3px 3px 6px #888;
+  background-color: white;
+  position: absolute;
+  top: 700px;
+  left: 22%;
+  width: 55vw;
+  height: 72vh;
+}
+
