@@ -124,3 +124,14 @@ nav a:hover {
 		transform: perspective(1000px) rotateY(0deg) rotateX(15deg) translateY(-30px);
 	}
 }
+
+p {
+position: fixed;
+bottom: 0;
+left: 0;
+font-size: 12px;
+font-family:"comfortaa";
+color: white;
+
+
+}
