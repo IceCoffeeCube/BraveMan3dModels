@@ -56,6 +56,7 @@ animation: animateCar 120000s linear infinite;
 {
 	transform-style:preserve-3d;
 	animation: animateText 10s linear infinite;
+	
 }
 .circle span
 {
@@ -64,7 +65,9 @@ animation: animateCar 120000s linear infinite;
 	left: 0;
 	background: #fff;
 	color: #35146f;
-	font-size: 3em;
+	font-size: 57px;
+	font-family:"roboto";
+	font-style:"italic";
 	transform-origin: center;
 	transform-style: preserve-3d;
 	padding: 5px 11px;
