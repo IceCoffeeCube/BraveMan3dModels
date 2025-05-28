@@ -10,7 +10,7 @@ body {
   overflow-x: hidden;
 }
 
-textarea {
+iframe {
   width: 90%;
   height: 40vh;
   padding: 12px 10px;
