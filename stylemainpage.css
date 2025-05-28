@@ -6,7 +6,7 @@ font-family: montserrat;
 }
 body
 {
- background: url(mercedes-w14-1.png);
+ background: url(mercedes-w14-1.jpg);
  background-size: cover;
  background-attachment: fixed;
  background-position: center;
@@ -34,7 +34,7 @@ left: 50%;
 transform: translate(-50%, -50%);
 width: 500px;
 height: 500px;
-background: url(0_BYzeqFXlnhGQRkme.jpg);
+background: url(ascii.png);
 background-size: cover;
 background-repeat: repeat-x;
 border-radius: 50%;
